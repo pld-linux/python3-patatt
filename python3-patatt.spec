@@ -1,12 +1,12 @@
 Summary:	Simple library to add cryptographic attestation to patches sent via email
 Summary(pl.UTF-8):	Prosta biblioteka dodająca kryptograficzne poświadczenie do łatek wysyłanych pocztą
 Name:		python3-patatt
-Version:	0.6.2
+Version:	0.6.3
 Release:	1
 License:	MIT-0
 Group:		Libraries/Python
 Source0:	https://www.kernel.org/pub/software/devel/patatt/patatt-%{version}.tar.xz
-# Source0-md5:	4f7fc404bc818d5ffb25b3beda5559c5
+# Source0-md5:	f2875b47163efb63e90f6128e426fcae
 URL:		https://pypi.org/project/patatt/
 BuildRequires:	python3-modules >= 1:3.6
 BuildRequires:	python3-setuptools
